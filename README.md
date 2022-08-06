@@ -8,4 +8,4 @@ cd J-PHISHER
 
 chmod +x J-PHISHER.sh
 
-bash J-PHISHER.sh
+bash J-PHISHER.py
